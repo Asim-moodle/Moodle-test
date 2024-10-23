@@ -58,10 +58,10 @@ foreach ($users as $user) {
 
 echo $OUTPUT->header();
 
-// Render the table.
+
 echo html_writer::table($table);
 
-// Output pagination controls.
+
 echo $OUTPUT->render($pagination);
 
 echo $OUTPUT->footer();
