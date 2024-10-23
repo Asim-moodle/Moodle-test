@@ -18,7 +18,7 @@
  * CSV upload form for local_csvemail plugin.
  *
  * @package    local_csvemail
- * @copyright  2024 Your Name
+ * @copyright  2024 Asim Khan
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
