@@ -1,0 +1,1 @@
+this is an moodle local type puling and we use for upload an .csv in formate firstname lastname and email and uplaod it and click on upload button email will send to each user and report we can see in email_log.php file.
